@@ -117,7 +117,7 @@ li a:hover {
 h3{
   text-align: center;
   margin-top: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   text-transform: uppercase;
 }
 
@@ -137,6 +137,10 @@ p{
 
 ul{
   color: white;
+}
+
+.history{
+  color: black;
 }
 
 /*----------------------------------------timeline*/
