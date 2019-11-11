@@ -195,7 +195,7 @@ ul {
   height: 25px;
   right: -13px;
   background-color: white;
-  
+  border: 4px solid blue;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
