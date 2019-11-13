@@ -163,6 +163,7 @@ ul {
   color: black;
 }
 
+
 /*----------------------------------------timeline*/
 
 /* The actual timeline (the vertical ruler) */
@@ -312,15 +313,6 @@ h2 {
   }
 }
 
-/*----------------------------------------footer*/
-
-.footer {
-  display: block;
-  text-align: center;
-  background-color: blue;
-  color: white;
-}
-
 
 /* ----------------------------------------Contact Form */
 
@@ -343,4 +335,13 @@ h2 {
   margin-top: 15px;
   margin-bottom: 20px;
   background-color: blue;
+}
+
+/*----------------------------------------footer*/
+
+.footer {
+  display: block;
+  text-align: center;
+  background-color: blue;
+  color: white;
 }
