@@ -15,7 +15,8 @@ body {
 }
 
 .my-col {
-  border: 3px;
+    border: 3px;
+    padding-top: 20px;
 }
 
 /*----------------------------------------menu*/
@@ -30,7 +31,9 @@ body {
 
 
 .menu-space {
-  margin-left: -17px;
+    margin-left: -17px;
+    margin-bottom: 20px;
+    margin-top: -10px;
 }
 
 @media screen and (max-width: 600px) {
@@ -58,11 +61,12 @@ li a:hover {
 }
 
 .social {
-  padding-left: 1px;
-  float: right;
-  margin-right: 10px;
-  margin-bottom: 15px;
-  padding-top: 15px;
+    padding-left: 1px;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    margin-top: -10px;
 }
 
 .fa {
@@ -122,6 +126,10 @@ li a:hover {
 
 }
 
+.bold{
+    font-weight: bold;
+}
+
 .title {
   font-family: "Roboto", sans-serif;
   font-weight: 200;
@@ -151,8 +159,8 @@ p {
 }
 
 .progress {
-  min-height: 25px;
-  padding: 2px;
+    min-height: 35px;
+    padding: 5px;
 }
 
 ul {
@@ -311,6 +319,15 @@ h2 {
   .right {
     left: 0%;
   }
+
+  .content {
+    padding: 12px 15px;
+    background-color: blue;
+    position: relative;
+    border-radius: 6px;
+    margin-left: -25px;
+    margin-right: -26px;
+}
 }
 
 
