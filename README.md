@@ -3,7 +3,6 @@ Olugbenga Pearse Portfolio
 User Centric Frontend Development Milestone Project 
 
 I designed this portfolio project for any employer or recruiter who is ready to hire me as their company software developer.  This portfolio is designed to cover every aspect about me which include: Education, my coding and computer skills, experience, contact, technologies etc.
-
 UX
 This portfolio website is designed specifically for any recruiter or employer who want to see few of my best abilities both physically and psychologically in what I can offer their company if I am eventually employed.
 
